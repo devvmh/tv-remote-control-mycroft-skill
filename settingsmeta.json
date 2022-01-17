@@ -1,0 +1,32 @@
+{
+  "skillMetadata": {
+    "sections": [
+      {
+	"name": "Shell commands",
+        "fields": [
+	  {
+	    "name": "turnon_shell_command",
+	    "type": "text",
+	    "label": "Turn on the TV",
+	    "value": "",
+	    "placeholder": "/usr/local/bin/turnon.sh"
+	  },
+	  {
+	    "name": "turnoff_shell_command",
+	    "type": "text",
+	    "label": "Turn off the TV",
+	    "value": "",
+	    "placeholder": "/usr/local/bin/turnoff.sh"
+	  },
+	  {
+	    "name": "switchto_shell_command",
+	    "type": "text",
+	    "label": "Switch to a different TV input",
+	    "value": "",
+	    "placeholder": "/usr/local/bin/switchto.sh"
+	  }
+	]
+      }
+    ]
+  }
+}
