@@ -1,4 +1,4 @@
-# <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/tv.svg" card_color="#FD9E66" width="50" height="50" style="vertical-align:bottom"/> Tv Remote Control
+# <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/tv.svg" card_color="#FD9E66" width="50" height="50" style="vertical-align:bottom"/> TV Remote Control
 Voice interface to control a tv (e.g. using lirc)
 
 ## About
